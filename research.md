@@ -31,7 +31,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 18. P. Raghavendra, T. Sahai, P. Kumar, M. Chauhan and N. Ananthkrishnan, Aircraft Spin Recovery, with and without Thrust Vectoring, Using Nonlinear Dynamic Inversion, Journal of Aircraft, 2005. [link][pdf]
 19. N. Ananthkrishnan and T. Sahai, Crises - Critical junctures in the life of a chaotic attractor, Resonance, 2001. [link][pdf]
 
-### Select conference publications (peer reviewed)
+### Select conference publications (peer reviewed and not superseded by a journal paper)
 - B. Zhang, Y. Marzouk, B.-Y. Min and T. Sahai, Rare Event Simulation of a Rotorcraft System, AIAA SciTech Forum, 2018. [[conference link](https://arc.aiaa.org/doi/abs/10.2514/6.2018-1181)] [pdf link]
 - T. Sahai, G. Mathew, A. Surana, A chaotic dynamical system that paints and samples, IFAC 2017. [[conference link](https://www.sciencedirect.com/science/article/pii/S2405896317330872)] [[arxiv link](https://arxiv.org/abs/1504.02010)] [[code repository](http://qpcode.github.io/smc/dynamic_smc_painting.html)]
 - K. Srivastava and T. Sahai, A Multiresolution Approach for Tensor Factorization, NIPS 2015. [[conference link](https://people.cs.uchicago.edu/~risi/NIPS15workshop/index.html)] [[video link](https://www.youtube.com/watch?v=NIyMzMXjqa8)]
