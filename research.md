@@ -25,3 +25,11 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - T. Sahai, R. Bhiladvala and A. Zehnder, Thermomechanical Transitions in Doubly-Clamped Micromechanical Oscillators, International Journal of Nonlinear Mechanics, 2007. [link][pdf]
 - P. Raghavendra, T. Sahai, P. Kumar, M. Chauhan and N. Ananthkrishnan, Aircraft Spin Recovery, with and without Thrust Vectoring, Using Nonlinear Dynamic Inversion, Journal of Aircraft, 2005. [link][pdf]
 - N. Ananthkrishnan and T. Sahai, Crises - Critical junctures in the life of a chaotic attractor, Resonance, 2001. [link][pdf]
+
+### Select conference publications (peer reviewed)
+
+### Patents
+- Floor Plan Based Planning of Building Systems. Application Number: PA-0032689-US, Filed: March 2015 
+- Systems and Methods for Providing a Graphical User Interface Indicating Intruder Threat Levels for a Building. Application Number: PA-0032692-US, Filed: March 2015
+- System and Method for Automatic Learning of Bayesian Networks. Application Number: US2015/0142709, Filed: November 2014
+- Comfort Estimation and Incentive Design for Energy Efficiency, Application Number: PCT/US12/67029, Filed: November 2012
