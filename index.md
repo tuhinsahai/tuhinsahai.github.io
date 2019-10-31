@@ -8,8 +8,6 @@ I am a Technical Fellow at the United Technologies Research Center (UTRC) in Ber
 - 2014 GraingerAward by the Grainger Foundation and the National Academy of Engineering (NAE)
 - Invited to the Frontiers of Engineering (FOE) Symposium 2013 by the National Academy of Engineering (NAE)
 - Technical Excellence Award, United Technologies Research Center, 2012. Highest Individual Award at UTRC for contributions to science and technology
-- Publication Award, United Technologies Research Center, 2010, 2011, 2012, 2013, 2015, 2018, & 2019
-- Great Job Award, United Technologies Research Center, 2008, 2013
 - H. D. Block Teaching Award, Cornell University, 2007
 - McMullen Fellow, Cornell University, 2002 - 2003
 
