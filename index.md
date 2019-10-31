@@ -22,3 +22,9 @@ I am a Technical Fellow at the United Technologies Research Center (UTRC) in Ber
 - [Coverage of work on flight control](http://archive.indianexpress.com/storyOld.php?storyId=85051)
 
 Further details about my research and related publications can be found [here](https://tuhinsahai.github.io/research)
+
+### Contact information
+Mailing address: 2855 Telegraph Ave, Suite 410
+                 Berkeley, CA 94705.
+Phone number: 510-705-8595
+Email: [firstname].[lastname] [at] gmail.com
