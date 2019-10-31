@@ -11,3 +11,17 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - Mechanics and Dynamics of Nano- and Micro-mechanical Systems
 
 ### Journal publications
+
+- J.M. Pasini and T. Sahai, Polynomial Chaos based Uncertainty Quantification in Hamiltonian, multi-time scale and chaotic systems. Journal of Computational Dynamics, 2014 [link] [pdf]
+- T. Sahai and J.M. Pasini, Uncertainty Quantification in Hybrid Dynamical Systems. Journal of Computational Physics, 2012.[link][pdf]
+- A. Surana, T. Sahai and A. Banaszuk, Iterative Methods for Scalable Uncertainty Quantification in Complex Networks, International Journal for Uncertainty Quantification, 2012. [link][pdf]
+- T. Sahai, A. Speranzon and A. Banaszuk, Hearing the Clusters in a Graph: A Distributed Algorithm, Automatica, 2012. [link][pdf] (Top 25 most downloaded Sciencedirect papers)
+- A. Banaszuk et al., Scalable Approach to Uncertainty Quantification and Robust Design of Interconnected Dynamical Systems, Annual Reviews in Control, 2011. [link][pdf]
+- S. Klus, T. Sahai, C. Liu and M. Dellnitz, An efficient algorithm for the parallel solution of high-dimensional differential equations, Journal of Computational and Applied Mathematics, 2011. [link][pdf] (UTRC Publication Award)
+- T. Sahai, Backbone Transitions and Invariant Tori in Forced Micromechanical Oscillators with Optical Detection, Nonlinear Dynamics, 2010. - [link][pdf]
+- T. Sahai, V. Fonoberov and S. Loire, Uncertainty as Stabilizer of the Head-Tail Ordered Phase in Carbon-Monoxide Monolayers on Graphite, Physical Review B, 2009. [link][pdf] (UTRC Publication Award)
+- T. Sahai and A. Vladimirsky, Numerical Methods for Approximating Invariant Manifolds of Delayed Systems, SIAM Journal on Applied Dynamical Systems, 2009. [link][pdf] (Top 15 most downloaded papers - September 2009)
+- T. Sahai and A. Zehnder, Modeling of Coupled Dome-Shaped Micro-Oscillators, IEEE/ASME Journal of MEMS, 2008.[link][pdf]
+- T. Sahai, R. Bhiladvala and A. Zehnder, Thermomechanical Transitions in Doubly-Clamped Micromechanical Oscillators, International Journal of Nonlinear Mechanics, 2007. [link][pdf]
+- P. Raghavendra, T. Sahai, P. Kumar, M. Chauhan and N. Ananthkrishnan, Aircraft Spin Recovery, with and without Thrust Vectoring, Using Nonlinear Dynamic Inversion, Journal of Aircraft, 2005. [link][pdf]
+- N. Ananthkrishnan and T. Sahai, Crises - Critical junctures in the life of a chaotic attractor, Resonance, 2001. [link][pdf]
