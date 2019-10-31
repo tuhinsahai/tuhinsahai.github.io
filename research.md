@@ -11,7 +11,8 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - Mechanics and Dynamics of Nano- and Micro-mechanical Systems
 
 ### Journal publications
-
+- T. Sahai, A. Mishra, J.M. Pasini, S. Jha, Estimating the Density of States of Boolean Satisfiability Problems on Classical and Quantum Computing Platforms, In Review. [pdf](https://arxiv.org/abs/1910.13088)
+- T. Sahai, A. Ziessler, S. Klus, M. Dellnitz, Continuous Relaxations for the Traveling Salesman Problem, Nonlinear Dynamics, 2019. [link](https://link.springer.com/article/10.1007/s11071-019-05092-5)[pdf](https://arxiv.org/abs/1702.05224) 
 - J.M. Pasini and T. Sahai, Polynomial Chaos based Uncertainty Quantification in Hamiltonian, multi-time scale and chaotic systems. Journal of Computational Dynamics, 2014 [link] [pdf]
 - T. Sahai and J.M. Pasini, Uncertainty Quantification in Hybrid Dynamical Systems. Journal of Computational Physics, 2012.[link][pdf]
 - A. Surana, T. Sahai and A. Banaszuk, Iterative Methods for Scalable Uncertainty Quantification in Complex Networks, International Journal for Uncertainty Quantification, 2012. [link][pdf]
