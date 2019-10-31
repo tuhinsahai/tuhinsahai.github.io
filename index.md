@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/tuhinsahai/tuhinsahai.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+I am a Technical Fellow at the United Technologies Research Center (UTRC) in Berkeley, CA. I am broadly interested in the verification, optimization, design, and analysis (VODA) of complex interconnected aerospace systems. At UTRC, I lead multiple projects in the areas of uncertainty quantification, discrete optimization, and quantum computation. I particularly enjoy working at the interface of multiple discplines and consequently finding common themes and connections. Prior to joining UTRC, I earned my Ph.D. in January 2008 from Cornell University, where I was a McMullen Fellow and won the H.D. Block teaching award. I received my Masters and Bachelors in Aerospace Engineering from the Indian Institute of Technology, Bombay in 2002.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
