@@ -44,5 +44,5 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - Comfort Estimation and Incentive Design for Energy Efficiency, Application Number: PCT/US12/67029, Filed: November 2012
 
 ### Working Papers
-- T. Sahai, S. Klus, M. Dellnitz, A Traveling Salesman Learns Bayesian Networks, [pdf](https://arxiv.org/abs/1211.4888]
-- E. Sahai, T. Sahai, Mapping and Reducing the Brain on the Cloud, [pdf link](https://arxiv.org/abs/1207.4978)
+- T. Sahai, S. Klus, M. Dellnitz, A Traveling Salesman Learns Bayesian Networks, [[pdf](https://arxiv.org/abs/1211.4888)]
+- E. Sahai, T. Sahai, Mapping and Reducing the Brain on the Cloud, [[pdf](https://arxiv.org/abs/1207.4978)]
