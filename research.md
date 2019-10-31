@@ -33,6 +33,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 
 ### Select conference publications (peer reviewed)
 - B. Zhang, Y. Marzouk, B.-Y. Min and T. Sahai, Rare Event Simulation of a Rotorcraft System, AIAA SciTech Forum, 2018. [[conference link](https://arc.aiaa.org/doi/abs/10.2514/6.2018-1181)] [pdf link]
+- T. Sahai, G. Mathew, A. Surana, A chaotic dynamical system that paints and samples, IFAC 2017. [[conference link](https://www.sciencedirect.com/science/article/pii/S2405896317330872)] [[arxiv link](https://arxiv.org/abs/1504.02010)] [[code repository](http://qpcode.github.io/smc/dynamic_smc_painting.html)]
 - K. Srivastava and T. Sahai, A Multiresolution Approach for Tensor Factorization, NIPS 2015. [[conference link](https://people.cs.uchicago.edu/~risi/NIPS15workshop/index.html)] [[video link](https://www.youtube.com/watch?v=NIyMzMXjqa8)]
 - B. Englot, T. Sahai, I. Cohen, Efficient tracking and pursuit of moving targets by heuristic solution of the traveling salesman problem, 52nd IEEE Conference on Decision and Control 2013. [[conference link](https://ieeexplore.ieee.org/abstract/document/6760409)] [pdf link]
 ### Patents
