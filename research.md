@@ -36,6 +36,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - T. Sahai, G. Mathew, A. Surana, A chaotic dynamical system that paints and samples, IFAC 2017. [[conference link](https://www.sciencedirect.com/science/article/pii/S2405896317330872)] [[arxiv link](https://arxiv.org/abs/1504.02010)] [[code repository](http://qpcode.github.io/smc/dynamic_smc_painting.html)]
 - K. Srivastava and T. Sahai, A Multiresolution Approach for Tensor Factorization, NIPS 2015. [[conference link](https://people.cs.uchicago.edu/~risi/NIPS15workshop/index.html)] [[video link](https://www.youtube.com/watch?v=NIyMzMXjqa8)]
 - B. Englot, T. Sahai, I. Cohen, Efficient tracking and pursuit of moving targets by heuristic solution of the traveling salesman problem, 52nd IEEE Conference on Decision and Control 2013. [[conference link](https://ieeexplore.ieee.org/abstract/document/6760409)] [pdf link]
+
 ### Patents
 - Floor Plan Based Planning of Building Systems. Application Number: PA-0032689-US, Filed: March 2015 
 - Systems and Methods for Providing a Graphical User Interface Indicating Intruder Threat Levels for a Building. Application Number: PA-0032692-US, Filed: March 2015
