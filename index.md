@@ -11,3 +11,4 @@ I am a Technical Fellow at the United Technologies Research Center (UTRC) in Ber
 - H. D. Block Teaching Award, Cornell University, 2007
 - McMullen Fellow, Cornell University, 2002 - 2003
 
+Further details about my research can be found [here](https://github.com/tuhinsahai/tuhinsahai.github.io/edit/master/research.md)
