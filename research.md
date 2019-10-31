@@ -41,3 +41,5 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - Systems and Methods for Providing a Graphical User Interface Indicating Intruder Threat Levels for a Building. Application Number: PA-0032692-US, Filed: March 2015
 - System and Method for Automatic Learning of Bayesian Networks. Application Number: US2015/0142709, Filed: November 2014
 - Comfort Estimation and Incentive Design for Energy Efficiency, Application Number: PCT/US12/67029, Filed: November 2012
+
+### Working Papers
