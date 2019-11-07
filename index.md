@@ -5,7 +5,7 @@ I am a Technical Fellow at the United Technologies Research Center (UTRC) in Ber
 ### Honors and awards
 
 - Invited Talk at the Quantum Tech Congress, Boston MA, 2019
-- 2014 GraingerAward by the Grainger Foundation and the National Academy of Engineering (NAE)
+- 2014 Grainger Award by the Grainger Foundation and the National Academy of Engineering (NAE)
 - Invited to the Frontiers of Engineering (FOE) Symposium 2013 by the National Academy of Engineering (NAE)
 - Technical Excellence Award, United Technologies Research Center, 2012. Highest Individual Award at UTRC for contributions to science and technology
 - H. D. Block Teaching Award, Cornell University, 2007
