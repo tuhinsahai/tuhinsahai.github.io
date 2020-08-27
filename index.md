@@ -23,7 +23,7 @@ Further details about my research and related publications can be found [here](h
 
 ### Projects
 In addition to leading multiple projects at the Research Center, it has been my privilege to serve as a PI on several DoD funded projects. \
-**Active Projects:** DARPA-DLA Project on scalable Optimization of Supply Chains, AFRL Rare events in Aerospace Systems.\
+**Active Projects:** DARPA-DLA Project on scalable optimization of supply chains and wargaming, AFRL Rare events in aerospace systems.\
 **Past Projects:** DARPA EQUiPS, DARPA Lagrange, DARPA N7, AFOSR CCMI, and DARPA GUARD-DOG.
 
 
