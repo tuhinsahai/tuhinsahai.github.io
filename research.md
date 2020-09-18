@@ -11,6 +11,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - Mechanics and Dynamics of Nano- and Micro-mechanical Systems
 
 ### Journal publications
+1. T. Sahai, Stochastic Optimization using Polynomial Chaos Expansions, In Review. [[arxiv link](https://arxiv.org/abs/2009.08077)]
 1. T. Sahai, A. Mishra, J.M. Pasini, S. Jha, Estimating the Density of States of Boolean Satisfiability Problems on Classical and Quantum Computing Platforms, In Review. [[arxiv link](https://arxiv.org/abs/1910.13088)]
 1. T. Sahai, A. Ziessler, S. Klus, M. Dellnitz, Continuous Relaxations for the Traveling Salesman Problem, Nonlinear Dynamics, 2019. [[journal link](https://link.springer.com/article/10.1007/s11071-019-05092-5)] [[arxiv link](https://arxiv.org/abs/1702.05224)]
 1. I. Mezic, V. A. Fonoberov, M. Fonoberova, T. Sahai, Spectral Complexity of Directed Graphs and Application to Structural Decomposition, Complexity, 2019. [[journal link](https://www.hindawi.com/journals/complexity/2019/9610826/abs/)] [[arxiv link](https://arxiv.org/abs/1808.06004)]
@@ -32,6 +33,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 1. N. Ananthkrishnan and T. Sahai, Crises - Critical junctures in the life of a chaotic attractor, Resonance, 2001. [[journal link](https://link.springer.com/article/10.1007/BF02837669)] [[pdf](https://www.ias.ac.in/public/Volumes/reso/006/03/0019-0033.pdf)]
 
 ### Select conference publications (peer reviewed and distinct from all journal papers)
+- R. Varma, C. Melville, C. Pinello, T. Sahai, Post Quantum Secure Command and Control of Mobile Agents : Inserting quantum-resistant encryption schemes in the Secure Robot Operating System, In Review. [[arxiv link](https://arxiv.org/abs/2009.07937)]
 - T. Sahai, Dynamical Systems Theory and Algorithms for NP-hard Problems, Workshop on Set Oriented Numerics 2020. [[conference link](https://link.springer.com/chapter/10.1007/978-3-030-51264-4_8)][[arxiv link](https://arxiv.org/abs/2005.05052)]
 - T. Sahai, A. Mishra, J.M. Pasini, S. Jha, Estimating the Density of States of Boolean Satisfiability Problems on Classical and Quantum Computing Platforms, AAAI 2020 (Oral Presentation in Main Conference - ~5% acceptance rate). [[pdf link](https://aaai.org/ojs/index.php/AAAI/article/view/5524/5380)] [[arxiv link](https://arxiv.org/abs/1910.13088)] 
 - B. Zhang, Y. Marzouk, B.-Y. Min and T. Sahai, Rare Event Simulation of a Rotorcraft System, AIAA SciTech Forum, 2018. [[conference link](https://arc.aiaa.org/doi/abs/10.2514/6.2018-1181)] [[pdf link](https://github.com/tuhinsahai/tuhinsahai.github.io/blob/master/aiaa_paper.pdf)]
