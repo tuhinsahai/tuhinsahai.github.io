@@ -31,5 +31,4 @@ In addition to leading multiple projects at the Research Center, it has been my 
 ### Contact information
 Mailing address: 2855 Telegraph Ave, Suite 410,<br/>
                  Berkeley, CA 94705.<br/>
-Phone number: 510-705-8595<br/>
 Email: [firstname].[lastname] [at] gmail.com
