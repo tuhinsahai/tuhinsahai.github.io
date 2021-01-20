@@ -11,7 +11,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - Mechanics and Dynamics of Nano- and Micro-mechanical Systems
 
 ### Journal publications
-1. B. Zhang, T. Sahai, Y. Marzouk, A Koopman framework for rare event simulation in stochastic differential equations, In Review. [[arxiv link]https://arxiv.org/abs/2101.07330]
+1. B. Zhang, T. Sahai, Y. Marzouk, A Koopman framework for rare event simulation in stochastic differential equations, In Review. [[arxiv link](https://arxiv.org/abs/2101.07330)]
 1. T. Sahai, Stochastic Optimization using Polynomial Chaos Expansions, In Review. [[arxiv link](https://arxiv.org/abs/2009.08077)]
 1. T. Sahai, A. Mishra, J.M. Pasini, S. Jha, Estimating the Density of States of Boolean Satisfiability Problems on Classical and Quantum Computing Platforms, In Review. [[arxiv link](https://arxiv.org/abs/1910.13088)]
 1. T. Sahai, A. Ziessler, S. Klus, M. Dellnitz, Continuous Relaxations for the Traveling Salesman Problem, Nonlinear Dynamics, 2019. [[journal link](https://link.springer.com/article/10.1007/s11071-019-05092-5)] [[arxiv link](https://arxiv.org/abs/1702.05224)]
