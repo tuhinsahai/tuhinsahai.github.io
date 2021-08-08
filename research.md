@@ -47,8 +47,8 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - B. Englot, T. Sahai, I. Cohen, Efficient Tracking and Pursuit of Moving Targets by Heuristic Solution of the Traveling Salesman Problem, 52nd IEEE Conference on Decision and Control 2013. [[conference link](https://ieeexplore.ieee.org/abstract/document/6760409)] [[pdf link](https://github.com/tuhinsahai/tuhinsahai.github.io/blob/master/CDC13_2114_FI.pdf)]
 
 ### Patents
-- Floor Plan Based Planning of Building Systems. Application Number: PA-0032689-US, Filed: March 2015 
-- Systems and Methods for Providing a Graphical User Interface Indicating Intruder Threat Levels for a Building. Application Number: PA-0032692-US, Filed: March 2015
+- Floor Plan Based Planning of Building Systems. Application Number: PA-0032689-US, Awarded: June 2021 
+- Systems and Methods for Providing a Graphical User Interface Indicating Intruder Threat Levels for a Building. Application Number: PA-0032692-US, Awarded: October 2019
 - System and Method for Automatic Learning of Bayesian Networks. Application Number: US2015/0142709, Filed: November 2014
 - Comfort Estimation and Incentive Design for Energy Efficiency, Application Number: PCT/US12/67029, Filed: November 2012
 
