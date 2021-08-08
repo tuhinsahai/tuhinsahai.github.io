@@ -11,7 +11,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - Mechanics and Dynamics of Nano- and Micro-mechanical Systems
 
 ### Journal publications
-1. J. Xing, D. Fischer, N. Labh, R. Piersma, B. C. Lee, Y. Xia, T. Sahai, V. Tarokh, Talaria: A Framework for Simulation of Permissioned Blockchains for Logistics and Beyond, In Review, [[arxiv link](https://arxiv.org/abs/2103.02260)]
+1. J. Xing, D. Fischer, N. Labh, R. Piersma, B. C. Lee, Y. Xia, T. Sahai, V. Tarokh, Talaria: A Framework for Simulation of Permissioned Blockchains for Logistics and Beyond, In Review. [[arxiv link](https://arxiv.org/abs/2103.02260)]
 2. B. Zhang, T. Sahai, Y. Marzouk, A Koopman framework for rare event simulation in stochastic differential equations, In Review. [[arxiv link](https://arxiv.org/abs/2101.07330)]
 3. T. Sahai, Stochastic Optimization using Polynomial Chaos Expansions, In Review. [[arxiv link](https://arxiv.org/abs/2009.08077)]
 4. T. Sahai, A. Mishra, J.M. Pasini, S. Jha, Estimating the Density of States of Boolean Satisfiability Problems on Classical and Quantum Computing Platforms, In Review. [[arxiv link](https://arxiv.org/abs/1910.13088)]
