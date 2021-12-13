@@ -11,6 +11,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - Mechanics and Dynamics of Nano- and Micro-mechanical Systems
 
 ### Journal publications
+1. B. Zhang, T. Sahai, Y. Marzouk, Computing eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator, In Review. [[arxiv link](https://arxiv.org/abs/2110.09229)].
 1. J. Xing, D. Fischer, N. Labh, R. Piersma, B. C. Lee, Y. Xia, T. Sahai, V. Tarokh, Talaria: A Framework for Simulation of Permissioned Blockchains for Logistics and Beyond, In Review. [[arxiv link](https://arxiv.org/abs/2103.02260)]
 2. B. Zhang, T. Sahai, Y. Marzouk, A Koopman framework for rare event simulation in stochastic differential equations, In Review. [[arxiv link](https://arxiv.org/abs/2101.07330)]
 3. T. Sahai, Stochastic Optimization using Polynomial Chaos Expansions, In Review. [[arxiv link](https://arxiv.org/abs/2009.08077)]
@@ -36,7 +37,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 23. N. Ananthkrishnan and T. Sahai, Crises - Critical junctures in the life of a chaotic attractor, Resonance, 2001. [[journal link](https://link.springer.com/article/10.1007/BF02837669)] [[pdf](https://www.ias.ac.in/public/Volumes/reso/006/03/0019-0033.pdf)]
 
 ### Select conference publications (peer reviewed and distinct from all journal papers)
-- B. Zhang, T. Sahai, Y. Marzouk, Sampling via Controlled Stochastic Dynamical Systems, Neurips ICBINB workshop, [[conference link](https://openreview.net/forum?id=dHruzYDH719)]
+- B. Zhang, T. Sahai, Y. Marzouk, Sampling via Controlled Stochastic Dynamical Systems, Neurips ICBINB workshop, [[conference link](https://openreview.net/forum?id=dHruzYDH719)], 2021.
 - R. Varma, C. Melville, C. Pinello, T. Sahai, Post Quantum Secure Command and Control of Mobile Agents : Inserting quantum-resistant encryption schemes in the Secure Robot Operating System, IEEE Conference on Robotic Computing, 2020. [[conference link](https://ieeexplore.ieee.org/abstract/document/9287952)][[arxiv link](https://arxiv.org/abs/2009.07937)]
 - T. Sahai, Dynamical Systems Theory and Algorithms for NP-hard Problems, Workshop on Set Oriented Numerics 2020. [[conference link](https://link.springer.com/chapter/10.1007/978-3-030-51264-4_8)][[arxiv link](https://arxiv.org/abs/2005.05052)]
 - T. Sahai, A. Mishra, J.M. Pasini, S. Jha, Estimating the Density of States of Boolean Satisfiability Problems on Classical and Quantum Computing Platforms, AAAI 2020 (Oral Presentation in Main Conference - ~5% acceptance rate). [[pdf link](https://aaai.org/ojs/index.php/AAAI/article/view/5524/5380)] [[arxiv link](https://arxiv.org/abs/1910.13088)] 
