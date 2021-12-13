@@ -36,6 +36,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 23. N. Ananthkrishnan and T. Sahai, Crises - Critical junctures in the life of a chaotic attractor, Resonance, 2001. [[journal link](https://link.springer.com/article/10.1007/BF02837669)] [[pdf](https://www.ias.ac.in/public/Volumes/reso/006/03/0019-0033.pdf)]
 
 ### Select conference publications (peer reviewed and distinct from all journal papers)
+- B. Zhang, T. Sahai, Y. Marzouk, Sampling via Controlled Stochastic Dynamical Systems, Neurips ICBINB workshop, [[conference link](https://openreview.net/forum?id=dHruzYDH719)]
 - R. Varma, C. Melville, C. Pinello, T. Sahai, Post Quantum Secure Command and Control of Mobile Agents : Inserting quantum-resistant encryption schemes in the Secure Robot Operating System, IEEE Conference on Robotic Computing, 2020. [[conference link](https://ieeexplore.ieee.org/abstract/document/9287952)][[arxiv link](https://arxiv.org/abs/2009.07937)]
 - T. Sahai, Dynamical Systems Theory and Algorithms for NP-hard Problems, Workshop on Set Oriented Numerics 2020. [[conference link](https://link.springer.com/chapter/10.1007/978-3-030-51264-4_8)][[arxiv link](https://arxiv.org/abs/2005.05052)]
 - T. Sahai, A. Mishra, J.M. Pasini, S. Jha, Estimating the Density of States of Boolean Satisfiability Problems on Classical and Quantum Computing Platforms, AAAI 2020 (Oral Presentation in Main Conference - ~5% acceptance rate). [[pdf link](https://aaai.org/ojs/index.php/AAAI/article/view/5524/5380)] [[arxiv link](https://arxiv.org/abs/1910.13088)] 
@@ -47,6 +48,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - B. Englot, T. Sahai, I. Cohen, Efficient Tracking and Pursuit of Moving Targets by Heuristic Solution of the Traveling Salesman Problem, 52nd IEEE Conference on Decision and Control 2013. [[conference link](https://ieeexplore.ieee.org/abstract/document/6760409)] [[pdf link](https://github.com/tuhinsahai/tuhinsahai.github.io/blob/master/CDC13_2114_FI.pdf)]
 
 ### Patents
+- Quadratic Assignment Problem and Blackboard wiring using lattices. Filed November 2021
 - Floor Plan Based Planning of Building Systems. Application Number: PA-0032689-US, Awarded: June 2021 
 - Systems and Methods for Providing a Graphical User Interface Indicating Intruder Threat Levels for a Building. Application Number: PA-0032692-US, Awarded: October 2019
 - System and Method for Automatic Learning of Bayesian Networks. Application Number: US2015/0142709, Filed: November 2014
