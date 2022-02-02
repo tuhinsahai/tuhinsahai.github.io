@@ -13,7 +13,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 ### Journal publications
 1. B. Zhang, T. Sahai, Y. Marzouk, Computing eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator, In Review. [[arxiv link](https://arxiv.org/abs/2110.09229)]
 1. J. Xing, D. Fischer, N. Labh, R. Piersma, B. C. Lee, Y. Xia, T. Sahai, V. Tarokh, Talaria: A Framework for Simulation of Permissioned Blockchains for Logistics and Beyond, In Review. [[arxiv link](https://arxiv.org/abs/2103.02260)]
-2. B. Zhang, T. Sahai, Y. Marzouk, A Koopman framework for rare event simulation in stochastic differential equations, In Review. [[arxiv link](https://arxiv.org/abs/2101.07330)]
+2. B. Zhang, T. Sahai, Y. Marzouk, A Koopman framework for rare event simulation in stochastic differential equations, Journal of Computational Physics, 2022. [[journal link](https://www.sciencedirect.com/science/article/pii/S0021999122000870?via%3Dihub)] [[arxiv link](https://arxiv.org/abs/2101.07330)]
 3. T. Sahai, Stochastic Optimization using Polynomial Chaos Expansions, In Review. [[arxiv link](https://arxiv.org/abs/2009.08077)]
 4. T. Sahai, A. Mishra, J.M. Pasini, S. Jha, Estimating the Density of States of Boolean Satisfiability Problems on Classical and Quantum Computing Platforms, In Review. [[arxiv link](https://arxiv.org/abs/1910.13088)]
 5. R. Varma, C. Melville, C. Pinello, T. Sahai, Post Quantum Secure Command and Control of Mobile Agents : Inserting quantum-resistant encryption schemes in the Secure Robot Operating System, International Journal of Semantic Computing, Volume No. 15, Issue No. 03, pp. 359 - 379 [[journal link](https://www.worldscientific.com/doi/10.1142/S1793351X21400092)]
