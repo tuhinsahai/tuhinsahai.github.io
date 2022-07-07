@@ -50,6 +50,8 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - B. Englot, T. Sahai, I. Cohen, Efficient Tracking and Pursuit of Moving Targets by Heuristic Solution of the Traveling Salesman Problem, 52nd IEEE Conference on Decision and Control 2013. [[conference link](https://ieeexplore.ieee.org/abstract/document/6760409)] [[pdf link](https://github.com/tuhinsahai/tuhinsahai.github.io/blob/master/CDC13_2114_FI.pdf)]
 
 ### Patents
+- Spectral clustering of graphs on fault tolerant and noisy quantum devices. Filed June 2022
+- Decentralized graph clustering using the Schrodinger equation. Filed June 2022
 - Quadratic Assignment Problem and Blackboard wiring using lattices. Filed November 2021
 - Floor Plan Based Planning of Building Systems. Application Number: PA-0032689-US, Awarded: June 2021 
 - Systems and Methods for Providing a Graphical User Interface Indicating Intruder Threat Levels for a Building. Application Number: PA-0032692-US, Awarded: October 2019
