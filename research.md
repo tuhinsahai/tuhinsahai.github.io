@@ -37,7 +37,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 23. N. Ananthkrishnan and T. Sahai, Crises - Critical junctures in the life of a chaotic attractor, Resonance, 2001. [[journal link](https://link.springer.com/article/10.1007/BF02837669)] [[pdf](https://www.ias.ac.in/public/Volumes/reso/006/03/0019-0033.pdf)]
 
 ### Select conference publications (peer reviewed and distinct from all journal papers)
-- H. Zhu, S. Klus, T. Sahai, A Dynamic Mode Decomposition Approach for Decentralized Spectral Clustering of Graphs, In review, [[arxiv link](https://arxiv.org/abs/2203.00004)]
+- H. Zhu, S. Klus, T. Sahai, A Dynamic Mode Decomposition Approach for Decentralized Spectral Clustering of Graphs, IEEE CCTA 2022, [[arxiv link](https://arxiv.org/abs/2203.00004)]
 - B. Zhang, T. Sahai, Y. Marzouk, Sampling via Controlled Stochastic Dynamical Systems, Neurips ICBINB workshop, [[conference link](https://openreview.net/forum?id=dHruzYDH719)], 2021.
 - R. Varma, C. Melville, C. Pinello, T. Sahai, Post Quantum Secure Command and Control of Mobile Agents : Inserting quantum-resistant encryption schemes in the Secure Robot Operating System, IEEE Conference on Robotic Computing, 2020. [[conference link](https://ieeexplore.ieee.org/abstract/document/9287952)][[arxiv link](https://arxiv.org/abs/2009.07937)]
 - T. Sahai, Dynamical Systems Theory and Algorithms for NP-hard Problems, Workshop on Set Oriented Numerics 2020. [[conference link](https://link.springer.com/chapter/10.1007/978-3-030-51264-4_8)][[arxiv link](https://arxiv.org/abs/2005.05052)]
