@@ -50,6 +50,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - B. Englot, T. Sahai, I. Cohen, Efficient Tracking and Pursuit of Moving Targets by Heuristic Solution of the Traveling Salesman Problem, 52nd IEEE Conference on Decision and Control 2013. [[conference link](https://ieeexplore.ieee.org/abstract/document/6760409)] [[pdf link](https://github.com/tuhinsahai/tuhinsahai.github.io/blob/master/CDC13_2114_FI.pdf)]
 
 ### Patents
+- Amit Surana, Yiqing Lin, Tuhin Sahai, Laura A. Gordon, and David Fischer, Distributed Satellite Constellation for Cooperative Multi-target Tracking. Filed August 2022
 - Spectral clustering of graphs on fault tolerant and noisy quantum devices. Filed June 2022
 - Decentralized graph clustering using the Schrodinger equation. Filed June 2022
 - Quadratic Assignment Problem and Blackboard wiring using lattices. Filed November 2021
