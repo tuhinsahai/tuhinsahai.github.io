@@ -24,11 +24,10 @@ Further details about my research and related publications can be found [here](h
 ### Projects
 In addition to leading multiple projects at the Research Center, it has been my privilege to serve as a PI on several DoD funded projects. \
 \
-**Active Projects:** DARPA-DLA Project on scalable optimization of supply chains and wargaming, AFRL Rare events in aerospace systems.\
-**Past Projects:** DARPA EQUiPS, DARPA Lagrange, DARPA N7, AFOSR CCMI, and DARPA GUARD-DOG.
+**Projects at RTRC:** DARPA-DLA Project on scalable optimization of supply chains and wargaming, AFRL Rare events in aerospace systems, DARPA EQUiPS, DARPA Lagrange, DARPA N7, AFOSR CCMI, and DARPA GUARD-DOG.\
 
 
 ### Contact information
-Mailing address: 2855 Telegraph Ave, Suite 410,<br/>
-                 Berkeley, CA 94705.<br/>
+Mailing address: SRI International, 333 Ravenswood Ave, EL192<br/>
+                 Menlo Park, CA 94025.<br/>
 Email: [firstname].[lastname] [at] gmail.com
