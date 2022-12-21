@@ -28,6 +28,6 @@ In addition to leading multiple projects at the Research Center, it has been my 
 
 
 ### Contact information
-Mailing address: SRI International, 333 Ravenswood Ave, EL192<br/>
+Mailing address: SRI International, 333 Ravenswood Ave, EL192,<br/>
                  Menlo Park, CA 94025.<br/>
 Email: [firstname].[lastname] [at] gmail.com
