@@ -11,7 +11,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - Mechanics and Dynamics of Nano- and Micro-mechanical Systems
 
 ### Journal publications
-1. A. Surana, A. Gnanasekaran, T. Sahai, Carleman linearization based efficient quantum algorithm for higher order polynomial differential equations, In Review. [[arxiv link](https://arxiv.org/abs/2212.10775)]
+1. A. Surana, A. Gnanasekaran, T. Sahai, An efficient quantum algorithm for simulating polynomial differential equations, In Review. [[arxiv link](https://arxiv.org/abs/2212.10775)]
 1. B. Zhang, T. Sahai, Y. Marzouk, Computing eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator, In Review. [[arxiv link](https://arxiv.org/abs/2110.09229)]
 1. J. Xing, D. Fischer, N. Labh, R. Piersma, B. C. Lee, Y. Xia, T. Sahai, V. Tarokh, Talaria: A Framework for Simulation of Permissioned Blockchains for Logistics and Beyond, In Review. [[arxiv link](https://arxiv.org/abs/2103.02260)]
 2. B. Zhang, T. Sahai, Y. Marzouk, A Koopman framework for rare event simulation in stochastic differential equations, Journal of Computational Physics, 2022. [[journal link](https://www.sciencedirect.com/science/article/pii/S0021999122000870?via%3Dihub)] [[arxiv link](https://arxiv.org/abs/2101.07330)]
