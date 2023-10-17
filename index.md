@@ -2,6 +2,8 @@
 
 I am a Principal Research Scientist at SRI International broadly interested in the verification, optimization, design, and analysis (VODA) of complex interconnected systems in the presence of uncertainty. My projects have spanned the areas of uncertainty quantification, discrete optimization, and quantum computation. I particularly enjoy working at the interface of multiple disciplines and consequently like finding common themes and connections. Prior to joining SRI International, I spent 15 years at Raytheon/United Technologies Research Center (RTRC/UTRC) where I held positions of increasing responsibility, culminating in the role of a Technical Fellow. I earned my Ph.D. in January 2008 from Cornell University, where I was a McMullen Fellow and won the H.D. Block teaching award. I received my Master's and Bachelor's in Aerospace Engineering from the Indian Institute of Technology, Bombay in 2002.
 
+The above bio can be found in third person [here](https://tuhinsahai.github.io/thirdpersonbio)
+
 ### Honors and awards
 
 - Invited Talk at the Quantum Tech Congress, Boston MA, 2019
