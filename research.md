@@ -39,7 +39,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 
 ### Select conference publications (peer reviewed and distinct from all journal papers)
 - H. Saidi, S. Jha, T. Sahai, math-PVS: A Large Language Model Framework to Map Scientific Publications to PVS Theories, In Review, [[arxiv link](https://arxiv.org/abs/2310.17064)]
-- A. Gnanasekaran, A. Surana, T. Sahai, Efficient Quantum Algorithms for Nonlinear Stochastic Dynamical Systems, IEEE International Conference on Quantum Computing and Engineering (QCE23), [[arxiv link](https://arxiv.org/abs/2303.02463)]
+- A. Gnanasekaran, A. Surana, T. Sahai, Efficient Quantum Algorithms for Nonlinear Stochastic Dynamical Systems, IEEE International Conference on Quantum Computing and Engineering (QCE23), [[conference link](https://ieeexplore.ieee.org/document/10313636)] [[arxiv link](https://arxiv.org/abs/2303.02463)]
 - H. Zhu, S. Klus, T. Sahai, A Dynamic Mode Decomposition Approach for Decentralized Spectral Clustering of Graphs, IEEE CCTA 2022, [[conference link](https://ccta2022.ieeecss.org/)][[arxiv link](https://arxiv.org/abs/2203.00004)]
 - B. Zhang, T. Sahai, Y. Marzouk, Sampling via Controlled Stochastic Dynamical Systems, Neurips ICBINB workshop, [[conference link](https://openreview.net/forum?id=dHruzYDH719)], 2021.
 - R. Varma, C. Melville, C. Pinello, T. Sahai, Post Quantum Secure Command and Control of Mobile Agents : Inserting quantum-resistant encryption schemes in the Secure Robot Operating System, IEEE Conference on Robotic Computing, 2020. [[conference link](https://ieeexplore.ieee.org/abstract/document/9287952)][[arxiv link](https://arxiv.org/abs/2009.07937)]
