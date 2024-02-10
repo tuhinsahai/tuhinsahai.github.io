@@ -54,10 +54,10 @@ I love all things scientific/mathematical. My primary areas of interest are:
 
 ### Patents
 - METHOD AND APPARATUS FOR COOPERATIVE MULTI-TARGET ASSIGNMENT, 173057US01. Filed January 2023
-- Amit Surana, Yiqing Lin, Tuhin Sahai, Laura A. Gordon, and David Fischer, Distributed Satellite Constellation for Cooperative Multi-target Tracking. Filed August 2022
-- Spectral clustering of graphs on fault tolerant and noisy quantum devices. Filed June 2022
-- Decentralized graph clustering using the Schrodinger equation. Filed June 2022
-- Quadratic Assignment Problem and Blackboard wiring using lattices. Filed November 2021
+- Distributed Satellite Constellation for Cooperative Multi-target Tracking. Filed August 2022
+- Spectral clustering of graphs on fault tolerant and noisy quantum devices. Application Number: US20230409943A1. Filed June 2022
+- Decentralized graph clustering using the Schrodinger equation. Application Number: US20230409643A1. Filed June 2022
+- Quadratic Assignment Problem and Blackboard wiring using lattices. Application Number: US20230153481A1. Filed November 2021
 - Floor Plan Based Planning of Building Systems. Application Number: PA-0032689-US, Awarded: June 2021 
 - Systems and Methods for Providing a Graphical User Interface Indicating Intruder Threat Levels for a Building. Application Number: PA-0032692-US, Awarded: October 2019
 - System and Method for Automatic Learning of Bayesian Networks. Application Number: US2015/0142709, Filed: November 2014
