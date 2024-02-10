@@ -53,7 +53,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - B. Englot, T. Sahai, I. Cohen, Efficient Tracking and Pursuit of Moving Targets by Heuristic Solution of the Traveling Salesman Problem, 52nd IEEE Conference on Decision and Control 2013. [[conference link](https://ieeexplore.ieee.org/abstract/document/6760409)] [[pdf link](https://github.com/tuhinsahai/tuhinsahai.github.io/blob/master/CDC13_2114_FI.pdf)]
 
 ### Patents
-- METHOD AND APPARATUS FOR COOPERATIVE MULTI-TARGET ASSIGNMENT, 173057US01. Filed January 2023
+- Method and Apparatus for Cooperative Multi-Target Assignment, 173057US01. Filed January 2023
 - Distributed Satellite Constellation for Cooperative Multi-target Tracking. Filed August 2022
 - Spectral clustering of graphs on fault tolerant and noisy quantum devices. Application Number: US20230409943A1. Filed June 2022
 - Decentralized graph clustering using the Schrodinger equation. Application Number: US20230409643A1. Filed June 2022
@@ -64,5 +64,6 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - Comfort Estimation and Incentive Design for Energy Efficiency, Application Number: PCT/US12/67029, Filed: November 2012
 
 ### Working Papers
+- T. Neema, S. Jha, T. Sahai, Non-Markovian Quantum Control via Model Maximum Likelihood Estimation and Reinforcement Learning, [[pdf](https://arxiv.org/abs/2402.05084)]
 - T. Sahai, S. Klus, M. Dellnitz, A Traveling Salesman Learns Bayesian Networks, [[pdf](https://arxiv.org/abs/1211.4888)]
 - E. Sahai, T. Sahai, Mapping and Reducing the Brain on the Cloud, [[pdf](https://arxiv.org/abs/1207.4978)]
