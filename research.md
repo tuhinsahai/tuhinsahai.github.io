@@ -11,6 +11,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - Mechanics and Dynamics of Nano- and Micro-mechanical Systems
 
 ### Journal publications
+1. T. Sahai, A. Gnanasekaran, On the Emergence of Ergodic Dynamics in Unique Games, In Review. [[arxiv link](https://arxiv.org/abs/2404.16024)]
 1. A. Surana, A. Gnanasekaran, T. Sahai, An efficient quantum algorithm for simulating polynomial differential equations, Quantum Information Processing. [[journal link](https://trebuchet.public.springernature.app/get_content/7188fb6c-3805-4843-a0fb-2e8a62585218?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240313&utm_content=10.1007/s11128-024-04311-2)] [[arxiv link](https://arxiv.org/abs/2212.10775)]
 2. B. Zhang, T. Sahai, Y. Marzouk, Computing eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator, In Review. [[arxiv link](https://arxiv.org/abs/2110.09229)]
 3. J. Xing, D. Fischer, N. Labh, R. Piersma, B. C. Lee, Y. Xia, T. Sahai, V. Tarokh, Talaria: A Framework for Simulation of Permissioned Blockchains for Logistics and Beyond, In Review. [[arxiv link](https://arxiv.org/abs/2103.02260)]
