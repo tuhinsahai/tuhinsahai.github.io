@@ -26,7 +26,7 @@ Further details about my research and related publications can be found [here](h
 ### Projects
 In addition to leading multiple projects at the Research Center, it has been my privilege to serve as a PI on several DoD funded projects. \
 \
-**Projects at RTRC:** DARPA-DLA Project on scalable optimization of supply chains and wargaming, AFRL Rare events in aerospace systems, DARPA EQUiPS, DARPA Lagrange, DARPA N7, AFOSR CCMI, and DARPA GUARD-DOG.
+**Past Projects:** DLA project on Advanced Modeling and Optimization of Supply Chains, DARPA Project on scalable optimization of supply chains and wargaming, AFRL Rare events in aerospace systems, DARPA EQUiPS on rare event prediction, DARPA Lagrange for scalable optimization of complex supply chains, DARPA N7 on optimal sensor placement, AFOSR CCMI on human queueing models, and DARPA GUARD-DOG on scalable graph analysis.
 
 
 ### Contact information
