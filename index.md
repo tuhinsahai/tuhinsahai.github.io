@@ -5,6 +5,8 @@ I am a Principal Research Scientist at SRI International broadly interested in t
 The above bio can be found in third person [here](https://tuhinsahai.github.io/thirdpersonbio)
 
 ### Honors and awards
+- Keynote speaker for Mathematical and Computational Foundations of Digital Twins, 2025
+- Keynote speaker National Academy of Engineering (NAE) Section-9 Minisymposium Event, 2025
 - Named to DARPA ISAT study group, 2025
 - Invited Talk at the Quantum Tech Congress, Boston MA, 2019
 - 2014 Grainger Award by the Grainger Foundation and the National Academy of Engineering (NAE)
