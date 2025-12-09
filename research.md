@@ -11,6 +11,8 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - Mechanics and Dynamics of Nano- and Micro-mechanical Systems
 
 ### Journal publications
+1. T Bourdais, A Gnanasekaran, H Owhadi, T Sahai, Discovering algorithms with computational language processing, In Review
+2.  X. Xu, T. Sahai, Accelerating spectral clustering on quantum and analog platforms, Academia Quantum, 2025.[[journal link](https://www.academia.edu/3064-979X/2/1/10.20935/AcadQuant7587?article_card=download&source=academia-quantum-articles-page)] [[arxiv link](https://arxiv.org/pdf/2408.08486)]
 1. T. Sahai, A. Gnanasekaran, On the Emergence of Ergodic Dynamics in Unique Games, In Review. [[arxiv link](https://arxiv.org/abs/2404.16024)]
 1. A. Surana, A. Gnanasekaran, T. Sahai, An efficient quantum algorithm for simulating polynomial differential equations, Quantum Information Processing. [[journal link](https://trebuchet.public.springernature.app/get_content/7188fb6c-3805-4843-a0fb-2e8a62585218?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20240313&utm_content=10.1007/s11128-024-04311-2)] [[arxiv link](https://arxiv.org/abs/2212.10775)]
 2. B. Zhang, T. Sahai, Y. Marzouk, Computing eigenfunctions of the multidimensional Ornstein-Uhlenbeck operator, In Review. [[arxiv link](https://arxiv.org/abs/2110.09229)]
@@ -39,6 +41,9 @@ I love all things scientific/mathematical. My primary areas of interest are:
 25. N. Ananthkrishnan and T. Sahai, Crises - Critical junctures in the life of a chaotic attractor, Resonance, 2001. [[journal link](https://link.springer.com/article/10.1007/BF02837669)] [[pdf](https://www.ias.ac.in/public/Volumes/reso/006/03/0019-0033.pdf)]
 
 ### Select conference publications (peer reviewed and distinct from all journal papers)
+- K Kan, X Li, BJ Zhang, T Sahai, S Osher, K Kumar, MA Katsoulakis, Stability of transformers under layer normalization, In Review, [[arxiv link](https://arxiv.org/pdf/2510.09904?)]
+- C Kanth Nagesh, S Sankaranarayanan, R Kaur, T Sahai, S Jha, Taylor-Model Physics-Informed Neural Networks (PINNs) for Ordinary Differential Equations, In Review
+- K Kan, X Li, BJ Zhang, T Sahai, S Osher, MA Katsoulakis, Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency, Neurips 2025 (Poster).[[Conference link](https://neurips.cc/virtual/2025/loc/san-diego/poster/118764)] [[arxiv link](https://arxiv.org/pdf/2505.13499?)]
 - H. Saidi, S. Jha, T. Sahai, math-PVS: A Large Language Model Framework to Map Scientific Publications to PVS Theories, In Review, [[arxiv link](https://arxiv.org/abs/2310.17064)]
 - A. Gnanasekaran, A. Surana, T. Sahai, Efficient Quantum Algorithms for Nonlinear Stochastic Dynamical Systems, IEEE International Conference on Quantum Computing and Engineering (QCE23), [[conference link](https://ieeexplore.ieee.org/document/10313636)] [[arxiv link](https://arxiv.org/abs/2303.02463)]
 - H. Zhu, S. Klus, T. Sahai, A Dynamic Mode Decomposition Approach for Decentralized Spectral Clustering of Graphs, IEEE CCTA 2022, [[conference link](https://ccta2022.ieeecss.org/)][[arxiv link](https://arxiv.org/abs/2203.00004)]
@@ -54,6 +59,7 @@ I love all things scientific/mathematical. My primary areas of interest are:
 - B. Englot, T. Sahai, I. Cohen, Efficient Tracking and Pursuit of Moving Targets by Heuristic Solution of the Traveling Salesman Problem, 52nd IEEE Conference on Decision and Control 2013. [[conference link](https://ieeexplore.ieee.org/abstract/document/6760409)] [[pdf link](https://github.com/tuhinsahai/tuhinsahai.github.io/blob/master/CDC13_2114_FI.pdf)]
 
 ### Patents
+- Rare events estimation, 18985950. Filed December 2024
 - Method and Apparatus for Cooperative Multi-Target Assignment, 173057US01. Filed January 2023
 - Distributed Satellite Constellation for Cooperative Multi-target Tracking. Filed August 2022
 - Spectral clustering of graphs on fault tolerant and noisy quantum devices. Application Number: US20230409943A1. Filed June 2022
