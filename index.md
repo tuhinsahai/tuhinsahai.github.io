@@ -30,7 +30,7 @@ Further details about my research and related publications can be found [here](h
 ### Projects
 In addition to leading multiple projects at the Research Center, it has been my privilege to serve as a PI on several DoD funded projects. \
 \
-**Current Projects:** DLA project on alternative manufacturing pathways, DARPA DIAL project on algorithm discovery, DARPA TRS program on discovery of right spaces, and NSF NQVL (quantum virtual lab).
+**Current Projects:** DLA project on AI-based discovery of alternate manufacturing pathways, DARPA DIAL project on AI-based algorithm generation, DARPA TRS program on automated generation of custom Neural Architectures, and NSF NQVL (quantum virtual lab) on quantum algorithm and control.
 \
 \
 **Past Projects:** DLA project on Advanced Modeling and Optimization of Supply Chains, DARPA Project on scalable optimization of supply chains and wargaming, AFRL Rare events in aerospace systems, DARPA EQUiPS on rare event prediction, DARPA Lagrange for scalable optimization of complex supply chains, DARPA N7 on optimal sensor placement, AFOSR CCMI on human queueing models, and DARPA GUARD-DOG on scalable graph analysis.
