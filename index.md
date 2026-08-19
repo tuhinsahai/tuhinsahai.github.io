@@ -9,7 +9,7 @@ The above bio can be found in third person [here](https://tuhinsahai.github.io/t
 ### Honors and awards
 - Keynote speaker for Workshop on Mathematical and Computational Foundations of Digital Twins, CIRM, Marseille, France, 2025
 - Keynote speaker National Academy of Engineering (NAE) Section-9 Minisymposium Event, 2025
-- Named to DARPA ISAT study group, 2025
+- Invited Expert at the DARPA ISAT study group, 2025
 - Invited Talk at the Quantum Tech Congress, Boston MA, 2019
 - 2014 Grainger Award by the Grainger Foundation and the National Academy of Engineering (NAE)
 - Invited to the Frontiers of Engineering (FOE) Symposium 2013 by the National Academy of Engineering (NAE)
